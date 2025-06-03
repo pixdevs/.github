@@ -7,12 +7,12 @@ We build innovative business tools, tackle coding challenges, and have fun while
 
 ## 🤝 Contribution Guidelines
 
-We love open collaboration! If you want to get involved:
+### If you're interested in contributing, please check out our [Contribution Guidelines](https://github.com/pixdevs/ideabase/blob/main/CONTRIBUTE.md).
 
 1. **Fork the repo** and create your own branch.
-2. Work on your changes, add features, or fix bugs.
-3. Submit a **pull request** with a detailed description of your changes.
-4. If you’re contributing to discussions, just jump in! We’re all ears for ideas, feedback, and suggestions.
+2. Work on your changes, add features, or fix bugs and push to your fork.
+3. Submit a **pull request** with a detailed description of your changes. Our team will take care of the rest.
+4. If you’re contributing to discussions, just jump in. We’re all ears for ideas, feedback, and suggestions.
 
 
 <!-- ## 📚 Useful Resources
