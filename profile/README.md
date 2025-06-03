@@ -34,7 +34,7 @@ We love open collaboration! If you want to get involved:
 
 Ready to bring your ideas to life? Dive into discussions, contribute to projects, and let's build something amazing together!
 
-- Join us on the fun-filled [GitHub Discussions](https://github.com/orgs/pixdevs/ideabase)
+- Join us on the fun-filled [GitHub Discussions](https://github.com/orgs/pixdevs/discussions)
 - Do follow us on [Linkedin](https://linkedin.com/company/pixelatives)
 
 **Simple, but significant!** 💡👩‍💻👨‍💻
